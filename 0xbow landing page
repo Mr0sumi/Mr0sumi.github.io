@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Company Name - Coming Soon</title>
+    <style>
+        body { text-align: center; padding-top: 20%; font-family: Arial, sans-serif; }
+        img { max-width: 300px; }
+    </style>
+</head>
+<body>
+    <img src="path-to-your-logo.jpg" alt="Your Company Logo">
+    <h1>Coming Soon</h1>
+</body>
+</html>
